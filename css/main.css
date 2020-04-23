@@ -387,13 +387,13 @@ input[type=button] {
 }
 
 .reviews  h3 {
-  width: 55%;
+  width: 170px;
   margin: 20px 0;
 }
 
 .reviews p {
   margin: 0;
-  width: 340px;
+  width: 100%;
 }
 
 /* ==========================================================================
